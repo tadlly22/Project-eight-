@@ -50,7 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Authors
 - **Mathias Alorbu** - *Initial work* - [Mathiasalorbu](https://github.com/Mathiasalorbu)
 
-## Group 8 Members
+## Group Members
 - Tetteh Solomon
 - Michael Owusu
 - Mathias Alorbu
