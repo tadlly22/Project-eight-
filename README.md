@@ -70,7 +70,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   - Create and maintain project documentation
   - Assist in the preparation of project plans and schedules
 
-- **Michael Owusu** - Frontend Developer
+- **Michael Owusu** -Frontend Developer
   - Maintain and develop the user interface
   - Collaborate with the UI/UX designer
   - Optimize application for maximum speed and scalability
