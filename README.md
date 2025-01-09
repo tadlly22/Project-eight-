@@ -64,9 +64,37 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Roles and Responsibilities
 - **Tetteh Solomon** - Business Analyst
-- **Michael Owusu** - Frontend Developer
-- **Jesse Nartey** - Security Specialist
-- **Oduro Augustine Ofosu** - Documentation Manager
-- **Mathias Alorbu** - UI/UX Designer
+  - Conduct market research and analysis
+  - Gather and document business requirements
+  - Communicate with stakeholders to understand their needs
+  - Create and maintain project documentation
+  - Assist in the preparation of project plans and schedules
 
+- **Michael Owusu** - Frontend Developer
+  - Maintain and develop the user interface
+  - Collaborate with the UI/UX designer
+  - Optimize application for maximum speed and scalability
+  - Ensure the technical feasibility of UI/UX designs
+  - Conduct code reviews and provide feedback
+
+- **Jesse Nartey** - Security Specialist
+  - Implement security measures and protocols
+  - Conduct regular security audits and assessments
+  - Monitor and respond to security incidents
+  - Ensure compliance with security standards and regulations
+  - Educate team members on security best practices
+
+- **Oduro Augustine Ofosu** - Documentation Manager
+  - Create and maintain project documentation
+  - Ensure documentation is up-to-date and accurate
+  - Coordinate with other team members to gather information
+  - Review and edit documentation for clarity and consistency
+  - Manage version control of documentation
+
+- **Mathias Alorbu** - UI/UX Designer
+  - Design user interfaces and user experiences
+  - Create wireframes, prototypes, and mockups
+  - Conduct user research and usability testing
+  - Collaborate with frontend developers to implement designs
+  - Ensure designs are user-friendly and accessible
 ## Acknowledgments
